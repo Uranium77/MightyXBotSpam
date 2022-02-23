@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from MightyXSpam import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/f6ea9ab7683ec1d5f8f57.jpg"
+HELP_PIC = "https://telegra.ph/file/efc9f0fafe82b8cfe255d.jpg"
 
 Mig_Help = "__Click On Below Buttons For Help__"
 
@@ -34,10 +34,10 @@ async def help(event):
             Button.inline("• Extra •", data="extra"),
            ],
            [    
-            Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/MightyXUpdates")
+            Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/ABOUT_THE_URANIUM")
            ],
            [
-           Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/MightyXSupport")
+           Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/URANIUM_FIGHTERS")
            ],
            ],
            )              
@@ -125,7 +125,7 @@ i) {hl}pornspam <count>
 Command:
 i) {hl}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
-** © @MightyXSupport**
+** © @URANIUM_FIGHTERS**
 """                     
            
            
@@ -152,16 +152,16 @@ async def helpback(event):
             Button.inline("Extra", data="extra"),
            ],
            [    
-            Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/MightyXUpdates")
+            Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/ABOUT_THE_URANIUM")
            ],
            [
-           Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/MightyXSupport")
+           Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/URANIUM_FIGHTERS")
            ],
            ],
         )           
    else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSupport"
+                "Noob !! Make Your Own URANIUM X Spam Bots !! @URANIUM_FIGHTERS"
             )
         await event.answer(Alert, cache_time=0, alert=True)
       
@@ -189,7 +189,7 @@ async def help_spam(event):
             ) 
    else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSupport"
+                "Noob !! Make Your Own URANIUM X Spam Bots !! @URANIUM_FIGHTERS"
             )
         await event.answer(Alert, cache_time=0, alert=True)
                  
@@ -216,7 +216,7 @@ async def help_raid(event):
             )  
      else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSupport"
+                "Noob !! Make Your Own URANIUM X Spam Bots !! @URANIUM_FIGHTERS"
             )
         await event.answer(Alert, cache_time=0, alert=True)
        
@@ -244,7 +244,7 @@ async def help_extra(event):
             )
    else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSupport"
+                "Noob !! Make Your Own URANIUM X Spam Bots !! @URANIUM_FIGHTERS"
             )
         await event.answer(Alert, cache_time=0, alert=True)
 
