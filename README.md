@@ -5,7 +5,7 @@
   <b>⚔️𝙐𝙍𝘼𝙉𝙄𝙐𝙈 ✘ 𝙎𝙋𝘼𝙈𝘽𝙊𝙏⚔️</b>
 </h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeingMighty%2FMightyXBotSpam&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/BeingMighty/MightyXBotSpam)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeingMighty%2FMightyXBotSpam&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/Uranium77/URANIUMXBotSpam)
 [![Forks](https://img.shields.io/github/forks/BeingMighty/MightyXBotSpam?style=flat-square&color=blue)](https://github.com/BeingMighty/MightyXBotSpam/fork)
 ![Repo Size](https://img.shields.io/github/repo-size/BeingMighty/MightyXBotSpam?&color=limegreen&style=flat-square&logo=github)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue?style=flat-square)](https://www.python.org/)
