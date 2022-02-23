@@ -1,4 +1,4 @@
-# MightyXBotSpam || @MightyXSupport
+# UraniumXBotSpam || @URANIUM_FIGHTERS
 
 import asyncio
 import sys
