@@ -11,10 +11,10 @@
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue?style=flat-square)](https://www.python.org/)
 
  
-- [x] ⚡ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ✨
-- [x] Deploy 10 Bots in One Time 🔥
-- [x] PormSpam 🌚
-- [x] Deploy Using Bot Token 🤖
+- [x] ⚔️ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ⚔️
+- [x] Dᴇᴘʟᴏʏ 10 Bᴏᴛs ɪɴ Oɴᴇ Tɪᴍᴇ 🔥
+- [x] ᴘᴏʀɴsᴘᴀᴍ 🍷
+- [x] Dᴇᴘʟᴏʏ Usɪɴɢ Bᴏᴛ Tᴏᴋᴇɴ 🤖
 
 # Deploy To Heroku
 
@@ -22,16 +22,16 @@
 
 
 # Support & Updates
-* [⚡ Updates Channel ⚡](https://t.me/MightyXUpdates)
+* [⚔️ Updates Channel ⚔️](https://t.me/ABOUT_THE_URANIUM)
 
-* [✨ Support Group ✨](https://t.me/MightyXSupport)
+* [⚔️ Support Group ⚔️](https://t.me/URANIUM_FIGHTERS)
 <br>
 
 <details>
  
   <summary> • 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 • </summary>
   
-* [RiZoeL Creator](https://github.com/MrRizoel)
+* [ Creator](https://t.me/THE_URANIUM.)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 
 </details>
