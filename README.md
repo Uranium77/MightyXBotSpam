@@ -31,7 +31,7 @@
  
   <summary> • 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 • </summary>
   
-* [ Creator](https://t.me/THE_URANIUM.)
+* [ Creator](https://t.me/THE_URANIUM)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 
 </details>
