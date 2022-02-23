@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/17df2d8536474db7e9ee9.jpg"width="350"" alt="MightyXSpam Logo">
+  <img src="https://telegra.ph/file/3275b2665ea2e062f61b8.jpg"width="350"" alt="MightyXSpam Logo">
 </p>
 <h1 align="center">
   <b>⚔️𝙐𝙍𝘼𝙉𝙄𝙐𝙈 ✘ 𝙎𝙋𝘼𝙈𝘽𝙊𝙏⚔️</b>
